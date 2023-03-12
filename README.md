@@ -10,3 +10,5 @@ This is an E-Commerce back end. This application helped me futher my knowledge o
 4. Run `npm run seed`
 5. Run `npm start`
 
+## Demo
+https://drive.google.com/file/d/1G2zmQ0XVfkSzdVjZpBtN2hKYjg1ecYR5/view
