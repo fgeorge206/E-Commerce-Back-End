@@ -12,3 +12,6 @@ This is an E-Commerce back end. This application helped me futher my knowledge o
 
 ## Demo
 https://drive.google.com/file/d/1G2zmQ0XVfkSzdVjZpBtN2hKYjg1ecYR5/view
+
+## Credits
+Thank you <a href="https://github.com/claricetran">Clarice Tran</a> for helping with this assignment.
